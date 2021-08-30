@@ -1,5 +1,5 @@
 /* PrismJS 1.24.1
-https://prismjs.com/download.html#themes=prism-okaidia&languages=markup+css+clike+javascript+c+cpp+css-extras+diff&plugins=line-highlight+line-numbers+autoloader */
+https://prismjs.com/download.html#themes=prism&languages=markup+css+clike+javascript+c+cpp+css-extras+diff&plugins=line-highlight+line-numbers+autoloader */
 var _self =
     "undefined" != typeof window
       ? window
